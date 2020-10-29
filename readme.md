@@ -1,14 +1,16 @@
 # InfoSec Resources 
-A small repository of cureated links and resources for those looking to enter the Information Security feild.
+A small repository of curated links and resources for those looking to enter the Information Security feild.
 
 ## Groups 
 
 *In DC*
 + [DC CyberSecurity Professionals](https://www.meetup.com/DCCyberWarriors/)
 
-*Women in Cyber*
+
+## Women in Cyber
 + [Women in Cyber Security](https://www.wicys.org/about-wicys)
 + [Cyber Wire Women in Cyber Reception](https://thecyberwire.com/events/s/6th-annual-women-in-cyber-security-reception.html)
++ [2020 Most Inspiring Women in Cyber](https://www.itsecurityguru.org/women-in-cyber/?utm_content=144091229&utm_medium=social&utm_source=twitter&hss_channel=tw-531470180)
 
 ## Youtube Channels 
 
@@ -21,14 +23,25 @@ A small repository of cureated links and resources for those looking to enter th
 + [Jason Lengstorf](https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A): Good for programming tutorials.
 + [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg): Bug Bounty tutorials
 
+## Books 
+
+*Publishers*
++ [Nostarch Press](https://nostarch.com/): Hands down Nostarch Press publishes the best tutorial and guides in cyber and programming.
+  + [Cyber](https://nostarch.com/catalog/security)
+  + [Programming](https://nostarch.com/catalog/programming)
+
 ## Podcasts
 
 *Daily News*
 + [The Cyber Wire](https://thecyberwire.com/podcasts/daily-podcast)
 
-*Weekly Stories*
+*Longform Stories*
 + [Darknet Diaries](https://darknetdiaries.com/)
 + [Vice Cyber](https://www.vice.com/en/topic/cyber-podcast)
+
+# Web Tutorials
+
++ [WonderHowTo NullByte](https://null-byte.wonderhowto.com/)
 
 # On Particular Topics
 
@@ -39,4 +52,6 @@ A small repository of cureated links and resources for those looking to enter th
 
 
 ## Capture the Flag 
+
++ [Begginners Guide to CTF Medium Article](https://medium.com/bugbountywriteup/beginners-guide-to-ctfs-c934a0d7f5f9)
 
