@@ -14,7 +14,7 @@ A small repository of curated links and resources for those looking to enter the
 
 ## Youtube Channels 
 
-+ [John Hammeond](https://www.youtube.com/c/JohnHammond010): Wide range of videos, lots of CTF, certifications, and offensive cyber content.
++ [John Hammond](https://www.youtube.com/c/JohnHammond010): Wide range of videos, lots of CTF, certifications, and offensive cyber content.
   + [Certification Reviews](https://www.youtube.com/playlist?list=PL1H1sBF1VAKXeE1qTZUkN9K-P0a4kQhf0)
   + [Introduction to Linux](https://www.youtube.com/watch?v=u9BRyNW7mo8&list=PL1H1sBF1VAKXoO8bc-JL36pHm9NER1vua)
 + [NetworkChuck](https://www.youtube.com/networkchuck): Wide range of videos.
@@ -42,6 +42,11 @@ A small repository of curated links and resources for those looking to enter the
 # Web Tutorials
 
 + [WonderHowTo NullByte](https://null-byte.wonderhowto.com/)
+
+# Company Blogs 
+
++ [PortSwigger](https://portswigger.net/blog)
++ [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/)
 
 # On Particular Topics
 
